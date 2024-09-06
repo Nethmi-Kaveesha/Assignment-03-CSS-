@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a5cabcfe-0daa-4a43-8f1a-ba7826a113fb" name="Changes" comment="" />
+    <list default="true" id="a5cabcfe-0daa-4a43-8f1a-ba7826a113fb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-03.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-04.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-05.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-05.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/case-06.html" beforeDir="false" afterPath="$PROJECT_DIR$/case-06.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2lMjngUeY7jPZFWrxAYri5w6cyg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -18,13 +39,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/kaveesha/Desktop/Assignment-03/assets/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -33,7 +66,53 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724997014558</updated>
-      <workItem from="1724997015889" duration="1000" />
+      <workItem from="1724997015889" duration="456000" />
+      <workItem from="1724997503424" duration="252000" />
+      <workItem from="1724997842827" duration="104000" />
+      <workItem from="1724997967907" duration="47000" />
+      <workItem from="1724998032096" duration="647000" />
+      <workItem from="1724998725383" duration="958000" />
+      <workItem from="1725000574267" duration="37000" />
+      <workItem from="1725000620006" duration="226000" />
+      <workItem from="1725048811323" duration="144000" />
+      <workItem from="1725072565298" duration="18000" />
+      <workItem from="1725394361036" duration="103000" />
+      <workItem from="1725434201625" duration="44000" />
+      <workItem from="1725434263818" duration="494000" />
+      <workItem from="1725434804795" duration="85000" />
+      <workItem from="1725434907895" duration="18000" />
+      <workItem from="1725434940418" duration="21000" />
+      <workItem from="1725434999047" duration="169000" />
+      <workItem from="1725435188366" duration="59000" />
+      <workItem from="1725435270984" duration="706000" />
+      <workItem from="1725435991651" duration="149000" />
+      <workItem from="1725436162239" duration="43000" />
+      <workItem from="1725436219071" duration="693000" />
+      <workItem from="1725436967218" duration="186000" />
+      <workItem from="1725437171454" duration="23000" />
+      <workItem from="1725437210233" duration="54000" />
+      <workItem from="1725437273076" duration="13000" />
+      <workItem from="1725437302551" duration="27000" />
+      <workItem from="1725437404941" duration="429000" />
+      <workItem from="1725439307638" duration="3408000" />
+      <workItem from="1725443467089" duration="1578000" />
+      <workItem from="1725445267531" duration="232000" />
+      <workItem from="1725445519602" duration="4910000" />
+      <workItem from="1725460503248" duration="3374000" />
+      <workItem from="1725476112399" duration="204000" />
+      <workItem from="1725521768828" duration="148000" />
+      <workItem from="1725522038273" duration="210000" />
+      <workItem from="1725603727343" duration="1265000" />
+      <workItem from="1725608011553" duration="658000" />
+      <workItem from="1725615349630" duration="1008000" />
+      <workItem from="1725624696121" duration="602000" />
+      <workItem from="1725625661321" duration="406000" />
+      <workItem from="1725626143631" duration="2905000" />
+      <workItem from="1725629992558" duration="204000" />
+      <workItem from="1725630242042" duration="49000" />
+      <workItem from="1725630318337" duration="284000" />
+      <workItem from="1725630999517" duration="208000" />
+      <workItem from="1725631214092" duration="919000" />
     </task>
     <servers />
   </component>

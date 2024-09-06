@@ -2,9 +2,163 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+    <title>Case-02</title>
 
+    <style>
+        body{
+            width: 1900px;
+            height: 880px;
+            border: 2px solid grey;
+        }
+        body>header{
+            background-color: white;
+            border: 2px solid gray;
+        }
+        body>header>img{
+            width: 100px;
+            height: 100px;
+        }
+
+        header{
+            position: relative;
+            height: 100px;
+        }
+
+        header>nav{
+            position: absolute;
+            right: 30px;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            height: fit-content;
+        }
+        header>nav>ul{
+            list-style: none;
+
+        }
+        header>nav>ul>li{
+            display: inline;
+            margin:0px 10px;
+        }
+
+        footer>div{
+            width: 1900px;
+            height: 50px;
+            position: absolute;
+            background: gray;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+
+        }
+
+        body>main>aside>nav>ul{
+            list-style: none;
+        }
+
+        body>main>aside>nav>ul>li{
+            margin: 40px;
+        }
+
+        aside{
+            background: purple;
+            color: white;
+            width: 200px;
+            height: 745px;
+            margin: 0px ;
+            display: flex;
+
+        }
+
+        main {
+            display: inline-flex;
+        }
+
+        /* Adjust the container for images */
+        main > section > div {
+            width: 91%;
+            display: flex;
+            justify-content: center; /* Align images to the right */
+            margin-top: 10px;
+            margin-left: 10px;
+        }
+
+        /* Style the images */
+        main > section > div > img {
+            width: 600px; /* Adjust size of the images */
+            height: 100%; /* Maintain aspect ratio */
+            border: 1px solid black;
+
+
+        }
+
+        main>section>section{
+            margin: 20px;
+            font-family: "Abyssinica SIL";
+        }
+
+
+    </style>
+</head>
+
+<body>
+<header>
+    <img src="assets/images/institute_of_software_engineering_logo.jpeg">
+
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>Services</li>
+            <li>Contacts</li>
+            <li>About us</li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <aside>
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Service</li>
+                <li>Contact</li>
+                <li>About Us</li>
+            </ul>
+        </nav>
+    </aside>
+
+    <section>
+        <div>
+            <img src="assets/images/monkey.gif">
+            <img src="assets/images/monkey.gif">
+            <img src="assets/images/monkey.gif">
+        </div>
+
+        <section>
+            <div></div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid dolore facere molestias neque? Alias aliquid ex expedita harum id illum magnam minima molestias nobis, odio sequi similique totam</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid dolore facere molestias neque? Alias aliquid ex expedita harum id illum magnam minima molestias nobis, odio sequi similique totam</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid dolore facere molestias neque? Alias aliquid ex expedita harum id illum magnam minima molestias nobis, odio sequi similique totam</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias aliquid dolore facere molestias neque? Alias aliquid ex expedita harum id illum magnam minima molestias nobis, odio sequi similique totam</p>
+
+        </section>
+
+
+        <section>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, sint voluptas? A adipisci amet aut blanditiis cumque eligendi facere fugiat, illo in libero magnam porro quae quas, qui quos sapiente.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, sint voluptas? A adipisci amet aut blanditiis cumque eligendi facere fugiat, illo in libero magnam porro quae quas, qui quos sapiente.</p>
+            <br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, sint voluptas? A adipisci amet aut blanditiis cumque eligendi facere fugiat, illo in libero magnam porro quae quas, qui quos sapiente.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, sint voluptas? A adipisci amet aut blanditiis cumque eligendi facere fugiat, illo in libero magnam porro quae quas, qui quos sapiente.</p>
+
+        </section>
+    </section>
+</main>
+
+<footer>
+    <div>Develop By IJSE</div>
+</footer>
 </body>
 </html>
